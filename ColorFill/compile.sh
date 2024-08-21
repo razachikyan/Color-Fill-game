@@ -1,0 +1,1 @@
+g++ main.cpp ./GamePlace/Place.cpp ./Hero/Hero.cpp ./Loop/Loop.cpp ./Window/ncursesWindow.cpp  -lncurses
